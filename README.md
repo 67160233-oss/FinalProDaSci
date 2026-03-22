@@ -18,4 +18,4 @@
 
 ## 🌐 การใช้งาน (Deployment)
 โปรเจคนี้ถูก Deploy ผ่าน Streamlit Community Cloud 
-สามารถทดลองใช้งานได้ที่: `[https://finalappasci-cbxiktxjnjhypkaekksubp.streamlit.app/]`
+สามารถทดลองใช้งานได้ที่: `https://finalappasci-cbxiktxjnjhypkaekksubp.streamlit.app/`
